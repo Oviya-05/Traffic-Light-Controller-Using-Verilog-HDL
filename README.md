@@ -82,6 +82,8 @@ always @(*) begin
 end
 endmodule
 ~~~
+
+**Output:**
 ![image](https://github.com/user-attachments/assets/0c54aa4f-bae7-4fa6-8979-ae89ef534ab8)
 
 **Testbench for Traffic Light Controller:**
