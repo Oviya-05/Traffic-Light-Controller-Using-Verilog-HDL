@@ -33,6 +33,7 @@ Save and Document Results:
 
 Capture screenshots of the waveform and save the simulation logs to include in your report.
 
+
 **Verilog Code for Traffic Light Controller:**
 
 ~~~
